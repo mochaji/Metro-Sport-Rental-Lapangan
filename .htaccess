@@ -1,0 +1,3 @@
+RewriteEngine On
+ErrorDocument 404 /fieldrent/pages/error/404.php
+
